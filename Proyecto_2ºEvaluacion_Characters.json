@@ -1,0 +1,492 @@
+[
+    {
+      "_class": "Monk",
+      "age": 53,
+      "name": "Donna Walsh",
+      "gender": "female",
+      "level": 1,
+      "aspect": [
+        {
+          "eyeColor": "grey",
+          "hairColor": "white",
+          "skincolor": "white"
+        }
+      ],
+      "weapons": [
+        {
+          "weapon": "rapier",
+          "ranged_weapon": "short_bow",
+          "shield": true
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"no",
+              "weapons":"martial weapons",
+              "tools":"tinker tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"dextery, wisdom",
+              "abilities":"Acrobatics, History"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Druid",
+      "age": 53,
+      "name": "Lilian Shaw",
+      "gender": "female",
+      "level": 2,
+      "aspect": [
+        {
+          "eyeColor": "white",
+          "hairColor": "grey",
+          "skincolor": "Black"
+        }
+      ],
+      "weapons": [
+        {
+          "weapon": "rapier",
+          "ranged_weapon": "hand_crossbow",
+          "shield": true
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"light armors",
+              "weapons":"simple weapons",
+              "tools":"alchemist tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"dextery, strength",
+              "abilities":"Athletics"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Fighter",
+      "age": 48,
+      "name": "Conner Wilkerson",
+      "gender": "male",
+      "level": 2,
+      "aspect": [
+        {
+          "eyeColor": "yellow",
+          "hairColor": "black",
+          "skincolor": "Black"
+        }
+      ],
+      "weapons": [
+        {
+          "eyeColor": "dagger",
+          "ranged_weapon": "bow",
+          "shield": false
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"no",
+              "weapons":"martial weapons",
+              "tools":"tinker tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"dextery, wisdom",
+              "abilities":"Acrobatics, History"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Cleric",
+      "age": 26,
+      "name": "Jaclyn Mueller",
+      "gender": "female",
+      "level": 1,
+      "aspect": [
+        {
+          "eyeColor": "blue",
+          "hairColor": "brown",
+          "skincolor": "white"
+        }
+      ],
+      "weapons": [
+        {
+          "eyeColor": "rapier",
+          "ranged_weapon": "bow",
+          "shield": true
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"no",
+              "weapons":"martial weapons",
+              "tools":"tinker tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"dextery, wisdom",
+              "abilities":"Acrobatics, History"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Druid",
+      "age": 22,
+      "name": "Santos Eaton",
+      "gender": "male",
+      "level": 3,
+      "aspect": [
+        {
+          "eyeColor": "brown",
+          "hairColor": "white",
+          "skincolor": "Black"
+        }
+      ],
+      "weapons": [
+        {
+          "eyeColor": "rapier",
+          "ranged_weapon": "bow",
+          "shield": true
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"no",
+              "weapons":"martial weapons",
+              "tools":"tinker tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"dextery, wisdom",
+              "abilities":"Acrobatics, History"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Fighter",
+      "age": 60,
+      "name": "Socorro Blankenship",
+      "gender": "female",
+      "level": 2,
+      "aspect": [
+        {
+          "eyeColor": "brown",
+          "hairColor": "yellow",
+          "skincolor": "white"
+        }
+      ],
+      "weapons": [
+        {
+          "weapon": "longsword",
+          "ranged_weapon": "hand_crossbow",
+          "shield": true
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"medium armor",
+              "weapons":"martial weapons",
+              "tools":"carpenter tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"contitution, charisma",
+              "abilities":"Acrobatics, Arcane"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Monk",
+      "age": 43,
+      "name": "Evans Morse",
+      "gender": "male",
+      "level": 1,
+      "aspect": [
+        {
+          "eyeColor": "brown",
+          "hairColor": "red",
+          "skincolor": "white"
+        }
+      ],
+      "weapons": [
+        {
+          "weapon": "shortsword",
+          "ranged_weapon": "bow",
+          "shield": false
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"no",
+              "weapons":"simple weapons",
+              "tools":"jeweler tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"Wisdom, costitution",
+              "abilities":"Insight, performance"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Sorcerer",
+      "age": 45,
+      "name": "Rich Velez",
+      "gender": "male",
+      "level": 1,
+      "aspect": [
+        {
+          "eyeColor": "yellow",
+          "hairColor": "black",
+          "skincolor": "white"
+        }
+      ],
+      "weapons": [
+        {
+          "weapon": "Bo staff",
+          "ranged_weapon": "hand_crossbow",
+          "shield": false
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"light armor",
+              "weapons":"martial weapons",
+              "tools":"Brewer tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"wisdom, Intelligence",
+              "abilities":"Perception, History"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Wizard",
+      "age": 23,
+      "name": "Cox Rowe",
+      "gender": "male",
+      "level": 5,
+      "aspect": [
+        {
+          "eyeColor": "yellow",
+          "hairColor": "yellow",
+          "skincolor": "white"
+        }
+      ],
+      "weapons": [
+        {
+          "weapon": "longsword",
+          "ranged_weapon": "short_bow",
+          "shield": true
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"no",
+              "weapons":"simple weapons",
+              "tools":"Cartographer tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"Intelligence, costitution",
+              "abilities":"Deception, Arcane"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    },
+    {
+      "_class": "Monk",
+      "age": 22,
+      "name": "Bridget Baker",
+      "gender": "female",
+      "level": 5,
+      "aspect": [
+        {
+          "eyeColor": "grey",
+          "hairColor": "yellow",
+          "skincolor": "Black"
+        }
+      ],
+      "weapons": [
+        {
+          "weapon": "longsword",
+          "ranged_weapon": "short_bow",
+          "shield": false
+        }
+      ],
+      "proficiencies":[
+        
+        {
+          "items_proficiencies":[
+
+            {
+              "armors":"Medium armor",
+              "weapons":"magic weapons",
+              "tools":"Caligrapher tools"
+            }
+
+          ],
+
+          "personal_profinciencies":[
+
+            {
+              "saving_throws":"dextery, wisdom",
+              "abilities":"Acrobatics, History"
+              
+
+            }
+
+
+          ]
+
+        }
+
+      ]
+    }
+  ]
