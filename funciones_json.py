@@ -6,6 +6,6 @@ def listar_personajes(personajes):
     lista_clase=[]
     for charac in personajes:
         
-        lista_titulos.append(charac["name"])
-        lista_año.append(peli["_class"])
+        lista_nombres.append(charac["name"])
+        lista_clase.append(charac["_class"])
     return zip(lista_nombres, lista_clase)
