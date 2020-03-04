@@ -25,20 +25,24 @@ while True:
     elif eleccion==2:
         clase=str(input("Introduce la clase que buscas:"))
 
-        for j in filtrar_por_clase(personajes, clase):
-            print("Nombre:",j[0])
-            print("Clase:",j[1])
+        print(filtrar_por_clase(personajes, clase))
         
 
     elif eleccion==3:
         pelo=str(input("Introduce el color del pelo:"))
 
-        print(filtrar_por_cabello(personajes, pelo))      
+        print(filtrar_por_cabello(personajes, pelo))
+     
 
     elif eleccion==4:
-        actor=str(input("Introduce un actor:"))
-        print(filtrar_por_actor(peliculas, actor))
+        armadura=str(input("Introduce una armadura:"))
+        habilidad=str(input("Introduce una habilidad:"))
+        print(filtrar_por_armadura_habilidad(personajes, armadura, habilidad))
         
+    elif eleccion==5:
+        arma=str(input("Introduce un arma:"))
+        nivel=int(input("Introduce un nivel:"))
+        print(filtrar_por_arma_nivel(personajes, arma, nivel))
 
     elif eleccion==6:
         print("Finalizando programa")
